@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Meysum-Sulyman
-- 🌱 I’m currently learning ...Html-CSS
-- 💞️ I’m looking to collaborate on ...UI based applications
+
 - 📫 How to reach me ...meysumsulyman@gmail.com
 
 <!---
